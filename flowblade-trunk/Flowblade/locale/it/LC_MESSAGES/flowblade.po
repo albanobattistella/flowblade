@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Floblade Italian Translation 0.14\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-12 18:20+0200\n"
-"PO-Revision-Date: 2020-29-02 21:24+0200\n"
+"PO-Revision-Date: 2020-04-13 11:24+0100\n"
 "Last-Translator: Albano Battistella <albano_battistella@hotmail.com>\n"
 "Language-Team: Italiano\n"
 "Language: it\n"
@@ -79,7 +79,7 @@ msgid ""
 "Open project in 'Media Relinker' tool to relink media assets to new files, or"
 msgstr ""
 "Aprire il progetto in 'Media Relinker' per ricreare i collegamenti ai file "
-"multimediali, oppure"
+"multimediali, o"
 
 #: projectaction.py:138
 msgid "Place a file with the same exact name and path on the hard drive"
@@ -91,7 +91,7 @@ msgstr "Apri il progetto con Media Relinker"
 
 #: projectaction.py:158
 msgid "Profile with Description: '"
-msgstr "Descrizione: '"
+msgstr "Profilo con Descrizione: '"
 
 #: projectaction.py:158
 msgid "' was not found on load!"
@@ -521,9 +521,8 @@ msgid "Paste"
 msgstr "Incolla"
 
 #: editorwindow.py:210
-#, fuzzy
 msgid "Paste Filters / Properties"
-msgstr "Proprietà dei File"
+msgstr "Incolla Filtri / Proprietà"
 
 #: editorwindow.py:211
 msgid "Add Monitor Clip"
@@ -600,7 +599,7 @@ msgstr "Sincronizza tutti compositor"
 
 #: editorwindow.py:229
 msgid "Set Compositor Auto Fades..."
-msgstr ""
+msgstr "Imposta dissolvenza automatica compositore..."
 
 #: editorwindow.py:230
 msgid "Change Sequence Tracks Count..."
@@ -4659,15 +4658,15 @@ msgstr "Inizio:"
 #: translations.py:596
 #, fuzzy
 msgid "Start Y"
-msgstr "Inizio:"
+msgstr "Inizio Y:"
 
 #: translations.py:597
 msgid "End Y"
-msgstr ""
+msgstr "Fine Y"
 
 #: translations.py:598
 msgid "End X"
-msgstr ""
+msgstr "Fine X"
 
 #: translations.py:599
 #, fuzzy
@@ -4988,15 +4987,16 @@ msgstr ""
 
 #: translations.py:696
 msgid "DV/DVD Widescreen NTSC"
-msgstr ""
+msgstr "DV/DVD Widescreen NTSC"
 
 #: translations.py:697
+msgid "DV/DVD PAL"
 msgid "DV/DVD PAL"
 msgstr ""
 
 #: translations.py:698
 msgid "DV/DVD NTSC"
-msgstr ""
+msgstr "DV/DVD NTSC"
 
 #: translations.py:699
 #, fuzzy
@@ -6024,7 +6024,7 @@ msgstr "Den. frame rate:"
 
 #: profilesmanager.py:135
 msgid "Sample aspect num.:"
-msgstr ""
+msgstr "Num. Aspetto campione"
 
 #: profilesmanager.py:136
 msgid "Sample aspect den.:"
